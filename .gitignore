@@ -1,0 +1,24 @@
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE settings
+.vscode/
+
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Large generated datasets
+data/generated/*.csv
+
+# Operating system files
+.DS_Store
+Thumbs.db

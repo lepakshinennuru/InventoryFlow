@@ -1,0 +1,5 @@
+product_id,warehouse_id,opening_date,opening_quantity
+P101,W01,2026-01-01,100
+P101,W02,2026-01-01,50
+P102,W01,2026-01-01,200
+P103,W01,2026-01-01,150

@@ -1,0 +1,15 @@
+{
+    "run_id": "c650b953-a844-4a67-a2ea-1a6518ed5066",
+    "status": "SUCCESS",
+    "input_records": 11,
+    "valid_records": 11,
+    "rejected_records": 0,
+    "inventory_movements": 115064,
+    "daily_balance_records": 18216,
+    "inventory_reconciliation": {
+        "PASSED": 204
+    },
+    "transfer_reconciliation": {
+        "PASSED": 15057
+    }
+}

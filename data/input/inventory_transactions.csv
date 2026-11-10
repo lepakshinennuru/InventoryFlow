@@ -1,0 +1,8 @@
+transaction_id,transaction_date,product_id,transaction_type,quantity,warehouse_id,source_warehouse_id,destination_warehouse_id
+T001,2026-01-02,P101,RECEIPT,50,W01,,
+T002,2026-01-03,P101,ISSUE,20,W01,,
+T003,2026-01-04,P101,TRANSFER,10,,W01,W02
+T004,2026-01-05,P101,ADJUSTMENT,-5,W01,,
+T005,2026-01-02,P102,RECEIPT,30,W01,,
+T006,2026-01-03,P102,ISSUE,40,W01,,
+T007,2026-01-04,P103,RECEIPT,25,W01,,
